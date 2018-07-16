@@ -1,3 +1,6 @@
-# template
+# 3DLUA
+Run Lua code on 3ds.
 
-This is a template for starting new 3DS libctru projects.
+This compiles and runs hello world. That's about it.
+
+![](screenshots/hello_world.png)
