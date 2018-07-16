@@ -3,3 +3,4 @@
 *.3dsx
 *.smdh
 /build
+/lua/lua-5.3.4
